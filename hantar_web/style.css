@@ -1,0 +1,39 @@
+
+#new_hantar{
+    font-size: 1000%;
+    color: #586A73;
+}
+
+#buttonstyle {
+  position: fixed; /* or absolute */
+  top: 50%;
+  left: 40%;
+  background-color: #0D454B;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 80px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+}
+
+#buttonstyle:hover {
+  position: fixed; /* or absolute */
+  top: 50%;
+  left: 40%;
+  background-color: #41959E;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 80px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+}
